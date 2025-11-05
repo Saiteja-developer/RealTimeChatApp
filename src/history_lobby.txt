@@ -1,0 +1,5 @@
+📢 [2025-11-05 13:21:11] alice joined #lobby
+[2025-11-05 13:21:19] alice: hi
+📢 [2025-11-05 13:21:31] bob joined #lobby
+[2025-11-05 13:21:36] bob: hello
+[2025-11-05 13:21:46] alice: nice to meet you
